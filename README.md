@@ -1,17 +1,23 @@
-<!---
-devanios/devanios is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-<img align="left" height="200" src="https://nextgeninvent.com/wp-content/uploads/2023/06/blog-image-2.png"  />
+<div align="center">
+  <img height="200" src="https://nextgeninvent.com/wp-content/uploads/2023/06/blog-image-2.png"  />
+</div>
 
 ###
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="37" height="25" alt="whatsapp logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="37" height="25" alt="telegram logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="37" height="25" alt="facebook logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="37" height="25" alt="linkedin logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="37" height="25" alt="gmail logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="37" height="25" alt="discord logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/behance/default.svg" width="37" height="25" alt="behance logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="37" height="25" alt="medium logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/slack/default.svg" width="37" height="25" alt="slack logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="37" height="25" alt="instagram logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/dribbble/default.svg" width="37" height="25" alt="dribbble logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/patreon/default.svg" width="37" height="25" alt="patreon logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="37" height="25" alt="stackoverflow logo"  />
 </div>
 
 ###
@@ -22,11 +28,11 @@ You can click the Preview link to take a look at your changes.
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h2 align="center">Hey there 👋</h2>
 
 ###
 
-<h4 align="left">👩‍💻  About Me</h4>
+<h3 align="left">👩‍💻  About Me</h3>
 
 ###
 
@@ -92,13 +98,9 @@ You can click the Preview link to take a look at your changes.
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=devanios&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=default&locale=en&hide_border=false&order=1" height="250" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=devanios&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=default&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=devanios&locale=en&mode=daily&theme=default&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=devanios&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=default&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/devanios/devanios/output/snake.svg" alt="Snake animation" />
 
 ###
 
@@ -108,10 +110,3 @@ You can click the Preview link to take a look at your changes.
 </div>
 
 ###
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
-</div>
-
-###  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
