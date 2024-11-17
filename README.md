@@ -36,7 +36,7 @@
 
 ###
 
-<p align="left">👋 - Hi, I’m @devanios from 🇳🇬🇨🇲<br>👀 - I’m interested in GitHub workflows, Web | mobile development , AI, and DevOps tools.<br>🌱 - I’m currently learning more about GitLab CI/CD pipelines, AI, Flutter development and cloud infrastructure ...<br>💞️ - I’m looking to collaborate on open-source projects and improving automation workflows.<br>📫 - How to reach me Feel free to reach out to me via GitHub or email (daad.devanios@gmail.com)<br>😄 - Pronouns: He/Him (Teri)<br>⚡ Fun fact: I’ve been experimenting with various CLI tools to streamline development tasks!</p>
+<p align="left">👋 - Hi, I’m @devanios from 🇳🇬🇨🇲<br>👀 - I’m interested in GitHub workflows, Web | mobile development , AI, and DevOps tools.<br>🌱 - I’m currently learning more about GitLab CI/CD pipelines, AI, Flutter development and cloud infrastructure ...<br>💞️ - I’m looking to collaborate on open-source projects and improving automation workflows.<br>📫 - How to reach me Feel free to reach out to me via GitHub or email (daad.devanios@gmail.com)<br>😄 - Pronouns: He/Him (Teri)<br>⚡ - Fun fact: I’ve been experimenting with various CLI tools to streamline development tasks!</p>
 
 ###
 
