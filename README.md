@@ -117,27 +117,27 @@
 ## 📦 Package projects (pub.dev)
 - [My Flutter Package](https://github.com/devanios/flutter-package)
 - [Other Flutter Package](https://github.com/devanios/another-flutter-package)
-
+---
 ## 🛠️ Private application projects
 - [Private Application 1](https://github.com/devanios/private-app-1)
 - [Private Application 2](https://github.com/devanios/private-app-2)
-
+---
 ## 🌍 Public application projects
 - [Public Application 1](https://github.com/devanios/public-app-1)
 - [Public Application 2](https://github.com/devanios/public-app-2)
-
+---
 ## 🎓 Tutorial projects
 - [GitHub Actions Tutorial](https://github.com/devanios/github-actions-tutorial)
 - [Flutter Tutorial](https://github.com/devanios/flutter-tutorial)
-
+---
 ## 🔬 Research projects
 - [Research Project 1](https://github.com/devanios/research-project-1)
 - [Research Project 2](https://github.com/devanios/research-project-2)
-
+---
 ## 🧰 Script/utility projects
 - [Script Python Utility](https://github.com/devanios/python-utility)
 - [Script Bash Utility](https://github.com/devanios/bash-utility)
-
+---
 ## 🤖 Projects with Machine Learning and AI
 - [Image Classification Application with TensorFlow](https://github.com/devanios/image-classification-app)
 - [Chatbot with NLP (GPT)](https://github.com/devanios/chatbot-nlp)
@@ -192,5 +192,4 @@
 ## 💡 Other miscellaneous projects
 - [Blockchain Application and NFT Tracker](https://github.com/devanios/blockchain-nft-tracker)
 - [AI Powered Voice Assistant](https://github.com/devanios/voice-assistant)
-
-
+---
