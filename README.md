@@ -162,6 +162,33 @@
 - [Interactive Quiz to Learn Programming](https://github.com/devanios/programming-quiz)
 - [Online courses with Flutter](https://github.com/devanios/online-courses-app)
 ---
+## 💼 Productivity applications
+- [Advanced Task Manager](https://github.com/devanios/task-manager-app)
+- [Time Planner with Reminders](https://github.com/devanios/schedule-planner)
+---
+## 🛒 E-commerce applications
+- [Online Shop Application](https://github.com/devanios/ecommerce-app)
+- [Real Time Order Tracking](https://github.com/devanios/order-tracking-app)
+- [Marketplace for Local Services](https://github.com/devanios/local-marketplace)
+---
+## 🎨 Artistic Creation Projects
+- [Photo Retouching Application](https://github.com/devanios/photo-editor)
+- [Digital Drawing Tool](https://github.com/devanios/digital-drawing-tool)
+- [Automated Video Creator](https://github.com/devanios/video-creator)
+---
+## 🔗 Blockchain and Cryptocurrency Projects
+- [Secure Crypto Wallet](https://github.com/devanios/crypto-wallet)
+- [NFT Tracker with Blockchain](https://github.com/devanios/nft-tracker)
+- [Financial Management DApp](https://github.com/devanios/blockchain-finance-dapp)
+---
+## 🔐 Security Projects
+- [MFA Secure Authentication](https://github.com/devanios/mfa-authentication)
+- [Network Vulnerability Analysis](https://github.com/devanios/network-vulnerability-scanner)
+---
+## 🧑‍🤝‍🧑 Collaborative projects
+- [Open Source Data Management Application](https://github.com/devanios/data-management-tool)
+- [Flutter Community Contribution Project](https://github.com/devanios/flutter-community-project)
+---
 ## 💡 Other miscellaneous projects
 - [Blockchain Application and NFT Tracker](https://github.com/devanios/blockchain-nft-tracker)
 - [AI Powered Voice Assistant](https://github.com/devanios/voice-assistant)
