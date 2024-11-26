@@ -137,3 +137,33 @@
 ## 🧰 Script/utility projects
 - [Script Python Utility](https://github.com/devanios/python-utility)
 - [Script Bash Utility](https://github.com/devanios/bash-utility)
+
+## 🤖 Projects with Machine Learning and AI
+- [Image Classification Application with TensorFlow](https://github.com/devanios/image-classification-app)
+- [Chatbot with NLP (GPT)](https://github.com/devanios/chatbot-nlp)
+---
+## 🎮 Game projects
+- [Video game in Python](https://github.com/devanios/python-game)
+- [Web game with React](https://github.com/devanios/react-game)
+---
+## 🎨 UI/UX projects (Design and Animation)
+- [Innovative User Interface with Flutter](https://github.com/devanios/flutter-advanced-ui)
+- [Interactive Analytical Dashboard](https://github.com/devanios/interactive-dashboard)
+---
+## 🌐 Cloud Applications
+- [SaaS application with Firebase](https://github.com/devanios/saas-app)
+- [Real-Time Synchronization with WebSocket](https://github.com/devanios/realtime-sync-app)
+---
+## 📱 IoT projects (Internet of Things)
+- [Home automation application](https://github.com/devanios/smart-home-app)
+- [Real-time IoT data tracking](https://github.com/devanios/iot-data-tracker)
+---
+## 📊 Educational applications
+- [Interactive Quiz to Learn Programming](https://github.com/devanios/programming-quiz)
+- [Online courses with Flutter](https://github.com/devanios/online-courses-app)
+---
+## 💡 Other miscellaneous projects
+- [Blockchain Application and NFT Tracker](https://github.com/devanios/blockchain-nft-tracker)
+- [AI Powered Voice Assistant](https://github.com/devanios/voice-assistant)
+
+
